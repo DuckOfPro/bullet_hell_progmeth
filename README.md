@@ -4,6 +4,8 @@ Game is incomplete but I hope you get the idea.
 
 Basically here's the controls and the goals
 
+0. How to Run 
+    - Just run the main.py file and the window will appear!
 1. Controls:
     - Arrow Keys to Move
     - Space Bar to Shoot
